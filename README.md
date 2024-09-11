@@ -83,7 +83,7 @@ Puedes clonar este repositorio para explorar los diferentes proyectos y ejercici
 
 ```bash
 
-git  clone  https://github.com/usuario/proyectos-curso-programacion.git
+git  clone  https://github.com/AleinxDot/ProgramacionIII.git
 
 ```
 
