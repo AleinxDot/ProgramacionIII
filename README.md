@@ -47,15 +47,15 @@ Cada directorio de **Unidad** contiene subdirectorios organizados por **Semanas*
 
   
 
-### Contenido por Unidad y Semana
+### Contenido por Unidad
 
   
 
--  **Unidad 1 - Fundamentos de Programación**
+-  **Unidad 1 - Repaso de Base de Datos Relacioneles MySQL**
 
--  **Unidad 2 - Programación Orientada a Objetos**
+-  **Unidad 2 - FrontEnd**
 
--  **Unidad 3 - Desarrollo de Aplicaciones**
+-  **Unidad 3 - BackEnd**
 
 
   
